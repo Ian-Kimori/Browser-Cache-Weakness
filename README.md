@@ -129,14 +129,14 @@ Look inside:
 
 Look for:
 
-*   `secure`
 *   `httponly`
+*   `secure`
 *   `SameSite`
 
 ### PASS:
 
-*   `Secure` is **true**
 *   `HttpOnly` is **true**
+*   `Secure` is **true**
 *   No sensitive data inside cookies
 *   Only **session ID** is stored
 
