@@ -4,9 +4,9 @@
 
 *   Back‑button test
 *   Offline mode
-*   Response headers
 *   Storage (LocalStorage, SessionStorage, IndexedDB, Cookies)
 *   Autocomplete issues
+*   Response headers
 *   Sensitive data stored anywhere in DevTools
 *   History inspection
 *   HTTPS caching rules
