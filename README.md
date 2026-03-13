@@ -104,8 +104,7 @@ FAIL if you see:
 *   Email
 *   Anything sensitive
 
-Local Storage = **persistent**, survives browser restart  
-→ **very dangerous**
+Local Storage = **persistent**, survives browser restart → **very dangerous**
 
 ***
 
