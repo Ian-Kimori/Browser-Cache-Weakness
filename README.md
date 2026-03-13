@@ -23,7 +23,7 @@ Below is everything you must check.
 
 ***
 
-# **Step 1 — Log in normally**
+# **Log in normally**
 
 *   Enter your username + password
 *   Navigate to any page containing sensitive info  
@@ -33,7 +33,7 @@ This prepares the environment for testing.
 
 ***
 
-# **Step 2 — Back Button Test (VERY IMPORTANT)**
+# **Test 1 — Back Button Test (VERY IMPORTANT)**
 
 ### 1. Log out.
 
@@ -55,7 +55,7 @@ This prepares the environment for testing.
 
 ***
 
-# **Step 3 — Offline Mode Test**
+# **Test 2 — Offline Mode Test**
 
 ### How to do it:
 
@@ -76,7 +76,7 @@ This prepares the environment for testing.
 
 ***
 
-# **Step 4 — Inspect Browser Storage (VERY IMPORTANT)**
+# **Test 3 — Inspect Browser Storage (VERY IMPORTANT)**
 
 Open DevTools:
 
@@ -172,7 +172,7 @@ FAIL if:
 
 ***
 
-# 🟦 **Step 5 — Check Autocomplete Behavior**
+# 🟦 **Test 4 — Check Autocomplete Behavior**
 
 Look at login & sensitive forms:
 
@@ -192,7 +192,7 @@ Input fields show:
 
 ***
 
-# 🟦 **Step 6 — Check Response Headers (The Most Important Technical Test)**
+# 🟦 **Test 5 — Check Response Headers (The Most Important Technical Test)**
 
 Open DevTools:
 
@@ -225,7 +225,7 @@ Means caching is misconfigured → **Fail**
 
 ***
 
-# 🟦 **Step 7 — Test Private Browsing Mode (Optional)**
+# 🟦 **Test 6 — Test Private Browsing Mode (Optional)**
 
 Open the site in:
 
@@ -242,7 +242,7 @@ Results should be the same.
 
 ***
 
-# 🟦 **Step 8 — Check Data in Browser History**
+# 🟦 **Test 7 — Check Data in Browser History**
 
 ### How to test:
 
@@ -260,7 +260,7 @@ Sensitive parameters **must not** appear in the URL.
 
 ***
 
-# 🟢 **FINAL PASS / FAIL DECISION CRITERIA**
+# **FINAL PASS / FAIL DECISION CRITERIA**
 
 ### ✔ PASS (Secure)
 
