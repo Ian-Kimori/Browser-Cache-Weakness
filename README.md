@@ -123,7 +123,7 @@ Session Storage = temporary, but still insecure.
 
 ## 🔹 **3. Cookies**
 
-Check under **Cookies**:
+Check `Cookies`.
 
 Look for:
 
