@@ -150,6 +150,9 @@ Look for:
 
 ## 🔹 **4. IndexedDB**
 
+Look inside:
+*   `IndexedDB`
+
 Check if any stores contain sensitive content.
 
 IndexedDB is used by some modern apps — but must NOT hold PCI data or tokens.
@@ -167,8 +170,8 @@ IndexedDB is used by some modern apps — but must NOT hold PCI data or tokens.
 
 ## 🔹 **5. Cache Storage**
 
-Go to:
-`Application → Cache Storage`
+Look inside:
+*   `Cache Storage`
 
 FAIL if:
 
