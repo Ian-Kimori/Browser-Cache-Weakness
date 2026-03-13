@@ -35,9 +35,10 @@ This prepares the environment for testing.
 
 # **Test 1 — Back Button Test (VERY IMPORTANT)**
 
-### 1. Log out.
+### How to do it:
 
-### 2. Press the browser **Back** button.
+ 1. Log out.
+ 2. Press the browser **Back** button.
 
 ### PASS:
 
@@ -78,11 +79,11 @@ This prepares the environment for testing.
 
 # **Test 3 — Inspect Browser Storage (VERY IMPORTANT)**
 
-Open DevTools:
+### How to do it:
 
-**F12 → Application tab**
-
-Now check:
+1.  Press **F12** → DevTools
+2.  Go to **Application** tab  
+3.  Now check:
 
 ## 🔹 **1. Local Storage**
 
@@ -172,7 +173,7 @@ FAIL if:
 
 ***
 
-# 🟦 **Test 4 — Check Autocomplete Behavior**
+# **Test 4 — Check Autocomplete Behavior**
 
 Look at login & sensitive forms:
 
@@ -192,7 +193,7 @@ Input fields show:
 
 ***
 
-# 🟦 **Test 5 — Check Response Headers (The Most Important Technical Test)**
+# **Test 5 — Check Response Headers (The Most Important Technical Test)**
 
 Open DevTools:
 
@@ -225,7 +226,7 @@ Means caching is misconfigured → **Fail**
 
 ***
 
-# 🟦 **Test 6 — Test Private Browsing Mode (Optional)**
+# **Test 6 — Test Private Browsing Mode (Optional)**
 
 Open the site in:
 
@@ -242,7 +243,7 @@ Results should be the same.
 
 ***
 
-# 🟦 **Test 7 — Check Data in Browser History**
+# **Test 7 — Check Data in Browser History**
 
 ### How to test:
 
