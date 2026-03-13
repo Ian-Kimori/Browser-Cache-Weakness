@@ -135,8 +135,8 @@ Look for:
 
 ### PASS:
 
-*   `HttpOnly` is **true**
 *   `Secure` is **true**
+*   `HttpOnly` is **true**
 *   No sensitive data inside cookies
 *   Only **session ID** is stored
 
