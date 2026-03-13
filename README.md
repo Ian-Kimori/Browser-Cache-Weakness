@@ -62,8 +62,11 @@ This prepares the environment for testing.
 
 1.  Press **F12** → DevTools
 2.  Go to **Network** tab
-3.  Tick **Offline**
-4.  Refresh a sensitive page
+3.  Tick **Offline** or
+4.  Press **Ctrl + Shift + P**
+5.  Type: **offline**
+6.  Select **Go offline**
+7.  **Refresh** a sensitive page
 
 ### PASS:
 
