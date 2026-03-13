@@ -110,7 +110,8 @@ Local Storage = **persistent**, survives browser restart → **very dangerous**
 
 ## 🔹 **2. Session Storage**
 
-Check `sessionStorage`.
+Look inside:
+*   `sessionStorage`.
 
 FAIL if:
 
@@ -123,7 +124,8 @@ Session Storage = temporary, but still insecure.
 
 ## 🔹 **3. Cookies**
 
-Check `Cookies`.
+Look inside:
+*   `Cookies`.
 
 Look for:
 
