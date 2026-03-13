@@ -1,6 +1,6 @@
 # Browser-Cache-Weakness
 
-**complete, simple, practical checklist** that includes **EVERYTHING you need to verify browser cache weaknesses**, including:
+**EVERYTHING you need to verify browser cache weaknesses**, including:
 
 *   Back‑button test
 *   Offline mode
@@ -15,7 +15,7 @@ This is the **full audit checklist** you can use directly during assessments.
 
 ***
 
-# ✅ **FULL BROWSER CACHE WEAKNESS TEST CHECKLIST**
+# **FULL BROWSER CACHE WEAKNESS TEST CHECKLIST**
 
 Your goal is to make sure **the browser does NOT store sensitive data** (PCI DSS requirement).
 
@@ -23,7 +23,7 @@ Below is everything you must check.
 
 ***
 
-# 🟦 **Step 1 — Log in normally**
+# **Step 1 — Log in normally**
 
 *   Enter your username + password
 *   Navigate to any page containing sensitive info  
@@ -33,7 +33,7 @@ This prepares the environment for testing.
 
 ***
 
-# 🟦 **Step 2 — Back Button Test (VERY IMPORTANT)**
+# **Step 2 — Back Button Test (VERY IMPORTANT)**
 
 ### 1. Log out.
 
@@ -55,7 +55,7 @@ This prepares the environment for testing.
 
 ***
 
-# 🟦 **Step 3 — Offline Mode Test**
+# **Step 3 — Offline Mode Test**
 
 ### How to do it:
 
@@ -76,7 +76,7 @@ This prepares the environment for testing.
 
 ***
 
-# 🟦 **Step 4 — Inspect Browser Storage (VERY IMPORTANT)**
+# **Step 4 — Inspect Browser Storage (VERY IMPORTANT)**
 
 Open DevTools:
 
