@@ -202,11 +202,12 @@ Input fields show:
 
 # **Test 5 — Check Response Headers (The Most Important Technical Test)**
 
-Open DevTools:
+### How to do it:
 
-**Network → Click on any sensitive page request → Headers**
-
-Look under **Response Headers**.
+1.  Press **F12** → DevTools
+2.  Go to **Network** tab
+3.  Click on any sensitive page request → **Headers**
+4.  Look under **Response Headers**.
 
 You want to see:
 
